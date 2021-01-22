@@ -16,9 +16,11 @@ function  TeamMember(props) {
                <h5>{props.info.Email}</h5>
                <h6>{props.info.Phone}</h6>
                <div>
-               <a href={props.info.facebook}   target="blank" >    facebook     <i class="fab fa-facebook-f"></i></a>
-               <a href={props.info.instagram}  target="blank" >    instagram    <i class="fab fa-instagram"></i></a>
-               <a href={props.info.twitter}    target="blank" >    twitter      <i class="fab fa-twitter"></i></a>
+               <a href={props.info.Facebook}   target="blank" >                 <i class="fab fa-facebook-f"></i></a>
+               <a href={props.info.Instagram}  target="blank" >                 <i class="fab fa-instagram"></i></a>
+               <a href={props.info.Twitter}    target="blank" >                 <i class="fab fa-twitter"></i></a>
+               <a href={props.info.Linkedin}   target="blank" >                 <i class="fab fa-linkedin"></i></a>
+               <a href={props.info.Github}     target="blank" >                 <i class="fab fa-github"></i></a>
               </div>
          </div>
 

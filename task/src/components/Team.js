@@ -4,89 +4,101 @@ import TeamMember from './TeamMember';
 
 function  Team() {
    return(
-      <div className="row">
+      <div className="row bg-light text-secondary">
             <TeamMember
              info={  {
                            Id:1,
                            Img:'https://picsum.photos/500/450',
-                           Name:'Ayah1',
+                           Name:'Ayah   1',
                            Position:'web developer',
                            Email:'Ayah1@gmail.com',
                            Phone:'0777777777',
                            Description:'A web developer is a programmer who specializes in, or is specifically engaged in, the development of World Wide Web applications using a client–server model.',
-                           facebook: "https://www.facebook.com/ayah.khawaldeh.1",
-                           instagram: "https://www.instagram.com/ayah_khawaldeh13/",
-                           twitter: "https://twitter.com/Ayah_Kh13",
+                           Facebook: "https://www.facebook.com/ayah.khawaldeh.1",
+                           Instagram: "https://www.instagram.com/ayah_khawaldeh13/",
+                           Twitter: "https://twitter.com/Ayah_Kh13",
+                           Linkedin: "https://www.linkedin.com/in/ayah-khawaldeh/",
+                           Github: "https://github.com/Ayah-Khawaldeh",
                         }}
                      />
                      <TeamMember
              info={  {
                            Id:2,
                            Img:'https://picsum.photos/500/451',
-                           Name:'Ayah2',
+                           Name:'Ayah   2',
                            Position:'web developer',
                            Email:'Ayah2@gmail.com',
                            Phone:'0777777777',
                            Description:'A web developer is a programmer who specializes in, or is specifically engaged in, the development of World Wide Web applications using a client–server model.',
-                           facebook: "https://www.facebook.com/ayah.khawaldeh.1",
-                           instagram: "https://www.instagram.com/ayah_khawaldeh13/",
-                           twitter: "https://twitter.com/Ayah_Kh13",
+                           Facebook: "https://www.facebook.com/ayah.khawaldeh.1",
+                           Instagram: "https://www.instagram.com/ayah_khawaldeh13/",
+                           Twitter: "https://twitter.com/Ayah_Kh13",
+                           Linkedin: "https://www.linkedin.com/in/ayah-khawaldeh/",
+                           Github: "https://github.com/Ayah-Khawaldeh",
                         }}
                       />
                      <TeamMember
                      info={{
                            Id:3,
                            Img:'https://picsum.photos/500/452',
-                           Name:'Ayah3',
+                           Name:'Ayah   3',
                            Position:'web developer',
                            Email:'Ayah3@gmail.com',
                            Phone:'0777777777',
                            Description:'A web developer is a programmer who specializes in, or is specifically engaged in, the development of World Wide Web applications using a client–server model.',
-                           facebook: "https://www.facebook.com/ayah.khawaldeh.1",
-                           instagram: "https://www.instagram.com/ayah_khawaldeh13/",
-                           twitter: "https://twitter.com/Ayah_Kh13",
+                           Facebook: "https://www.facebook.com/ayah.khawaldeh.1",
+                           Instagram: "https://www.instagram.com/ayah_khawaldeh13/",
+                           Twitter: "https://twitter.com/Ayah_Kh13",
+                           Linkedin: "https://www.linkedin.com/in/ayah-khawaldeh/",
+                           Github: "https://github.com/Ayah-Khawaldeh",
                         }}
                        />
                      <TeamMember
                      info={ {
                            Id:4,
                            Img:'https://picsum.photos/500/453',
-                           Name:'Ayah4',
+                           Name:'Ayah   4',
                            Position:'web developer',
                            Email:'Ayah4@gmail.com',
                            Phone:'0777777777',
                            Description:'A web developer is a programmer who specializes in, or is specifically engaged in, the development of World Wide Web applications using a client–server model.',
-                           facebook: "https://www.facebook.com/ayah.khawaldeh.1",
-                           instagram: "https://www.instagram.com/ayah_khawaldeh13/",
-                           twitter: "https://twitter.com/Ayah_Kh13",
+                           Facebook: "https://www.facebook.com/ayah.khawaldeh.1",
+                           Instagram: "https://www.instagram.com/ayah_khawaldeh13/",
+                           Twitter: "https://twitter.com/Ayah_Kh13",
+                           Linkedin: "https://www.linkedin.com/in/ayah-khawaldeh/",
+                           Github: "https://github.com/Ayah-Khawaldeh",
                         }}
                        />
                      <TeamMember
                      info={ {
                            Id:5,
                            Img:'https://picsum.photos/500/454',
-                           Name:'Ayah5',
+                           Name:'Ayah   5',
                            Position:'web developer',
                            Email:'Ayah@gmail.com',
                            Phone:'0777777777',
                            Description:'A web developer is a programmer who specializes in, or is specifically engaged in, the development of World Wide Web applications using a client–server model.',
-                           facebook: "https://www.facebook.com/ayah.khawaldeh.1",
-                           instagram: "https://www.instagram.com/ayah_khawaldeh13/",
-                           twitter: "https://twitter.com/Ayah_Kh13",
+                           Facebook: "https://www.facebook.com/ayah.khawaldeh.1",
+                           Instagram: "https://www.instagram.com/ayah_khawaldeh13/",
+                           Twitter: "https://twitter.com/Ayah_Kh13",
+                           Linkedin: "https://www.linkedin.com/in/ayah-khawaldeh/",
+                           Github: "https://github.com/Ayah-Khawaldeh",
                         }}
                        />
                      <TeamMember
                      info={    {
                            Id:6,
                            Img:'https://picsum.photos/500/455',
-                           Name:'Ayah6',
+                           Name:'Ayah   6',
                            Position:'web developer',
                            Email:'Ayah6@gmail.com',
                            Phone:'0777777777',
                            Description:'A web developer is a programmer who specializes in, or is specifically engaged in, the development of World Wide Web applications using a client–server model.',
-                           facebook: "https://www.facebook.com/ayah.khawaldeh.1",
-                           instagram: "https://www.instagram.com/ayah_khawaldeh13/",
-                           twitter: "https://twitter.com/Ayah_Kh13",
+                           Facebook: "https://www.facebook.com/ayah.khawaldeh.1",
+                           Instagram: "https://www.instagram.com/ayah_khawaldeh13/",
+                           Twitter: "https://twitter.com/Ayah_Kh13",
+                           Linkedin: "https://www.linkedin.com/in/ayah-khawaldeh/",
+                           Github: "https://github.com/Ayah-Khawaldeh",
                         }}
                      />
 
